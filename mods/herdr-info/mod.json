@@ -1,0 +1,5 @@
+{
+  "place": "none",
+  "title": "Tab details",
+  "overlay": { "kind": "dialog", "width": 850, "height": 0.8 }
+}

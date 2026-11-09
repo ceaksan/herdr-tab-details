@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.bak
+*.error
+*.log
+*.reset-*
+node_modules/
+.venv/
+coverage/
+dist/
+audits/
+mods/*/gpui-kit.d.ts
+mods/*/jsconfig.json

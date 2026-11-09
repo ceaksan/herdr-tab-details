@@ -1,0 +1,5 @@
+{
+  "global": {
+    "cmd-shift-p": "mod.open:herdr-info-palette"
+  }
+}
